@@ -1,7 +1,7 @@
 # Spotify Data Analysis
 
-An analysis of my personal Spotify listening habits from March 2019 to July 2026.
-Based on a dataset of nearly 90,000 streaming records, this project explores the evolution of my music taste over the past ~7.5 years. It investigates if/ how major life events, such as moving to a new country or switching to a new field of study (from Humanities to Data Science), influenced my listening behaviour.
+An analysis of my personal Spotify listening habits from March 2020 to July 2026.
+Based on a dataset of nearly 90,000 streaming records, this project explores the evolution of my music taste over the past ~ 6.5 years. It investigates if/ how major life events, such as moving to a new country or switching to a new field of study (from Humanities to Data Science), influenced my listening behaviour.
 
 
 ### Acknowledgements
